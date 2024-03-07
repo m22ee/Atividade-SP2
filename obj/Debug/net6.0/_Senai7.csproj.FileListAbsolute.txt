@@ -1,0 +1,15 @@
+C:\Users\Maria Auxiliadora\Documents\_Senai7\bin\Debug\net6.0\_Senai7.exe
+C:\Users\Maria Auxiliadora\Documents\_Senai7\bin\Debug\net6.0\_Senai7.deps.json
+C:\Users\Maria Auxiliadora\Documents\_Senai7\bin\Debug\net6.0\_Senai7.runtimeconfig.json
+C:\Users\Maria Auxiliadora\Documents\_Senai7\bin\Debug\net6.0\_Senai7.dll
+C:\Users\Maria Auxiliadora\Documents\_Senai7\bin\Debug\net6.0\_Senai7.pdb
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.csproj.AssemblyReference.cache
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.AssemblyInfoInputs.cache
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.AssemblyInfo.cs
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.csproj.CoreCompileInputs.cache
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.dll
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\refint\_Senai7.dll
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.pdb
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\_Senai7.genruntimeconfig.cache
+C:\Users\Maria Auxiliadora\Documents\_Senai7\obj\Debug\net6.0\ref\_Senai7.dll
